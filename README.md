@@ -1,4 +1,4 @@
-[![Watch the video](http://www.furkangoregen.net/images/projects/not-defteri.png)](https://youtu.be/9-RBm_rUe4w?list=PLdjPm9D9CpObQ9bbW2xjD0yP0sfNC6XWE)
+[![Watch the video](http://www.furkangoregen.net/images/projects/not-defteri.png)](https://youtu.be/W0u1QVE84n0?list=PLdjPm9D9CpObQ9bbW2xjD0yP0sfNC6XWE)
 
 <h1> Not Defteri Uygulaması (React) </h1>Bu uygulama ile sizin için önemli gördüğünüz notları aklınızda tutmak yerine, önem derecesine göre, not defterinizde tutabilir, düzenleyebilir ve kaldırabilirsiniz. Material-UI zenginlikleri ile React ın eşsiz buluşması sizlerle...</p>
 
